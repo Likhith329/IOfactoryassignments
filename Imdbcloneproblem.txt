@@ -1,0 +1,5 @@
+Frontend - https://github.com/Likhith329/imdbfrontend
+
+Backend -  https://github.com/Likhith329/imdbbackend1
+
+Netlify app- https://imdbclonep.netlify.app/
